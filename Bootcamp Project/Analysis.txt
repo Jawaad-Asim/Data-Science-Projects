@@ -1,0 +1,31 @@
+Sort by employee number, why is it upto 2000?
+
+
+No vague terminologies
+
+Recommendations on based on numbers:
+Reputation based on feedback
+Strain on support
+
+Satisfaction level variable: 
+
+No multicollinearity
+equal representation of data
+code use karnay ki reason
+ETL procedures
+
+Ahmad:
+Data Leak, (1 column ki base par both achi accuracy na ho baki bhi effect hoon) Don't deliver -ve point using the variable -> Data ki base par btaein, not k female zeada default kartay hain and male kam.
+
+Hamza:
+Bring certain numbers in success criteria and back it up by numbers, using indicating the current shortages, 
+
+Kashif:
+confidence lift concept
+Granularity or depth of data and analysis (Product level or more)
+Customer satisfaction need sentiment analysis
+frequency of products checking
+effect of confidence lift
+
+Jawaad:
+Multicolinearity
